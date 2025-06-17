@@ -5,7 +5,7 @@ I haven’t officially started my journey as a web developer yet, but I’m pass
 
 🎮 **Featured Project**  
 Check out my pride and joy: [Fidgetland Minigames and More](https://fidgetboyrolly.github.io/fidgetland-minigames-and-more/)  
-It’s a collection of fun minigames—perfect for anyone who wants to procrastinate productively!
+It’s a webstie for my minecraft server
 
 🕵️ **The Mystery Coder**  
 My real name? That’s top secret. Some mysteries are better left unsolved. (It makes me sound cooler, right?)
